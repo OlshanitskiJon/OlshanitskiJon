@@ -1,4 +1,12 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif?cid=ecf05e47hshcys70zk7ay20mjmyyhgtkpplp559cqrp0vcrn&rid=giphy.gif&ct=g/>
+</div>
+
+
+### 👋 Привет, меня зовут Евгений, я специалист Data Science  
+🔭 В настоящий момент нахожусь в активном поиске работы на должность специалиста Data Science  
+🌱 Работаю над реализацией пет-проекта в энергетике  
+🗣 Владею русским, английским(В2) языками  
 
 <!--
 **OlshanitskiJon/OlshanitskiJon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
