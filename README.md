@@ -4,13 +4,15 @@
 
 ### 👋 Привет, меня зовут Евгений, я специалист Data Science  
 
----
+
 🔭 В настоящий момент нахожусь в активном поиске работы на должность специалиста Data Science  
 🌱 Работаю над реализацией пет-проекта в энергетике  
 🗣 Владею русским, английским(В2) языками 
 
----
+
 ### Cтек:
+
+
 <div id="badges">
   <img src="https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534"/>
   <img src="https://camo.githubusercontent.com/a1c5e9056e3be1e1058d8517b025af60f61f75395a78245776db71a7703aff9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465"/>
@@ -23,9 +25,20 @@
   <img src="https://camo.githubusercontent.com/15ab61ce30a10d53ef73580f936329f8308021ebf6dc90f51c817d522516d40f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079546f7263682d2532334545344332432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5079546f726368266c6f676f436f6c6f723d7768697465"/>
   <img src="https://camo.githubusercontent.com/b46e59b09c063a31380646688a68018381767a7a206547c93f896df4643671e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030303030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"/>
 </div>
+
+
+## Статистика:  
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OlshanitskiJon&theme=solarized_light)
+
+
+## Контакты:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](##sea_red)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#+79153367269)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#olshanitskijon@gmail.com)
  
  
- 
+
  
 <!--
 **OlshanitskiJon/OlshanitskiJon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
