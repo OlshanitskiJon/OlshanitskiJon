@@ -24,10 +24,6 @@
 </div>
 
 
-## Статистика:  
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OlshanitskiJon&theme=solarized_dark)
-
 
 ## Контакты:
 
